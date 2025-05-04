@@ -4,7 +4,7 @@ import tkinter as tk
 from tictactoe_gui import TicTacToeGUI
 
 class TicTacToeClient:
-    def __init__(self, host='192.168.59.241', port=9999):
+    def __init__(self, host='localhost', port=9999):
         self.root = tk.Tk()
         self.gui = TicTacToeGUI(self.root, self.send_move)
         self.client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
