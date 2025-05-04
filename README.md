@@ -14,6 +14,10 @@ A fun and interactive two-player network-based **Tic Tac Toe** game using **Pyth
 - ⚡ Responsive interface using `Tkinter` and `Pillow`
 
 ---
+## 🕶️ How It Looks
+![WhatsApp Image 2025-05-04 at 11 28 02_5d96c8a0](https://github.com/user-attachments/assets/92e82a0e-91e7-47a7-a0e0-bc93a192eac0)
+
+---
 
 ## 🔧 Requirements
 
@@ -62,3 +66,9 @@ A fun and interactive two-player network-based **Tic Tac Toe** game using **Pyth
 - Game detects win/tie conditions and displays result.
 - Scoreboard updates automatically.
 - Restart anytime using the “🔄 Restart Game” button — syncs with opponent.
+
+---
+
+## 🤝 Authors
+- Nishita Singh (https://github.com/ohnonyx)
+- Nithya Prashaanthi R. (https://github.com/nithya-1385/)
